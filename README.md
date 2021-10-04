@@ -18,6 +18,7 @@ MVVM with data binding
 
 # Installation
 Clone this repository and import into Android Studio
+https://github.com/ChiragAtharva/KotlinMVVMStructure.git
 
 # License
 Copyright 2020 The Android Open Source Project, Inc.
